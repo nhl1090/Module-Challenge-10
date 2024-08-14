@@ -54,12 +54,15 @@ This project is licensed under the [MIT license](https://opensource.org/license/
 
 
 ## Contributing
-- edX (https://www.edx.org/)
-- git-scm.com (https://www.git-scm.com/docs/git-stash)
+- edX
+    - (https://www.edx.org/)
+- git-scm.com
+    - (https://www.git-scm.com/docs/git-stash)
 - GitHub
     - (https://github.com/jestjs/jest)
     - (https://github.com/SBoudrias/Inquirer.js)
-- Javascript.info (https://javascript.info/class-inheritance#overriding-a-method)
+- Javascript.info
+    - (https://javascript.info/class-inheritance#overriding-a-method)
 - Jest
     - (https://jestjs.io/)
     - (https://jestjs.io/docs/getting-started)
@@ -80,14 +83,19 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
     - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
     - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
-- Mimo (https://mimo.org)
+- Mimo
+    - (https://mimo.org)
 - NPM
     - (https://www.npmjs.com/package/inquirer/v/8.2.4)
     (https://www.npmjs.com/package/jest?activeTab=code)
-- Stackoverflow (https://stackoverflow.com/)
-- UT Coding Bootcamp GitLab site (https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-05-2024-U-LOLC)
-- Visual Studio (https://marketplace.visualstudio.com/items?itemName=jock.svg)
-- W3 Schools (https://www.w3schools.com/)
+- Stackoverflow
+    - (https://stackoverflow.com/)
+- UT Coding Bootcamp GitLab site
+    - (https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-05-2024-U-LOLC)
+- Visual Studio
+    - (https://marketplace.visualstudio.com/items?itemName=jock.svg)
+- W3 Schools
+    - (https://www.w3schools.com/)
 - Wikipedia
     - (https://en.wikipedia.org/wiki/SVG)
     - (https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
