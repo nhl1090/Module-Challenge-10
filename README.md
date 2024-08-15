@@ -30,8 +30,9 @@ This application creates a customized SVG logos. This offers the user cost-savin
 
 ![Logo Examples](./images/Screenshot%20of%20Logos.png)
 
-![Video Walkthrough](./assets/video/video%20walkthrough.mp4)
-
+Video Walkthrough
+![MP4](./assets/video/video%20walkthrough.mp4)
+![Google Drive](https://drive.google.com/file/d/1VOchV-Q1Jx36H08UC5PyezIgV6I5XZVd/view?usp=drive_link)
 
 ## License
 This project is licensed under the [MIT license](https://opensource.org/license/MIT).
