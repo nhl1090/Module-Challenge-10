@@ -28,7 +28,9 @@ This application creates a customized SVG logos. This offers the user cost-savin
 
 ## Usage
 
-![Screenshot of Logos](./images/Screenshot%20of%20Logos.png)
+![Logo Examples](./images/Screenshot%20of%20Logos.png)
+
+![Video Walkthrough](./assets/video/video%20walkthrough.mp4)
 
 
 ## License
