@@ -2,7 +2,7 @@
 
 ## Description
 
-
+This application creates a customized SVG logos. This offers the user cost-savings for not having to source out this task and efficiency for how quickly it resolves their logo needs.
 
 
 ## Table of Contents
@@ -16,12 +16,19 @@
 
 ## Installation
 
-
+1. Navigate to the SVG-Logo-Maker repository (https://github.com/nhl1090/SVG-Logo-Maker)
+2. Open Bash
+3. Navigate to the folder where you would like to clone the repo
+4. Use the following command to clone the repo to your local: 'git clone https://github.com/nhl1090/SVG-Logo-Maker.git'
+5. Use the following command to open the cloned repo in VS Code 'code .'
+6. Use the following command to install the required dependencies: 'npm install'
+7. Use the following command to run the application: 'node index.js'
+8. Answer the questions and create your awesome, new logo!
 
 
 ## Usage
 
-
+![Screenshot of Logos](./images/Screenshot%20of%20Logos.png)
 
 
 ## License
@@ -78,7 +85,8 @@ This project is licensed under the [MIT license](https://opensource.org/license/
 
 
 ## Tests
-N/A
+
+Once you have cloned the repository and installed dependencies, you may nagivate to the 'lib' directory and run 'npm test' in your terminal to test.
 
 
 ## Questions

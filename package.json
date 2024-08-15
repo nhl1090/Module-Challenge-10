@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "This application automates a customized SVG logo. This offers the user cost-savings for not having to source out this task and efficiency for how quickly it resolves the need for a logo.",
+  "description": "This application creates a customized SVG logos. This offers the user cost-savings for not having to source out this task and efficiency for how quickly it resolves the need for a logo.",
   "main": "index.js",
   "directories": {
     "example": "examples",
